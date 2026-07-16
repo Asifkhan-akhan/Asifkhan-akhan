@@ -164,7 +164,7 @@ Beyond shipping features, a large part of my work is **research & development** 
 
 <div align="center">
 
-### 🤝 Let's build something resilient together
+### 🤝 Let's build something resilient together.
 
 <a href="mailto:Asifkhan-akhan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
